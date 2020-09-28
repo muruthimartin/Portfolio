@@ -129,7 +129,8 @@ h6 { font-size: 16px;}
 }
 
 #dot-1{
-	background-color:  #FC6058;
+	background-color:  #ec645c;
+	/* background-color: #FC6058; */
 }
 
 #dot-2{
@@ -137,7 +138,7 @@ h6 { font-size: 16px;}
 }
 
 #dot-3{
-	background-color:  #2ACA3E;
+	background-color:  #594e30;
 }
 
 .browser-dot{
